@@ -18,3 +18,9 @@ test()
 def third_function(fname):
     print(fname + "Engineer")
 third_function("RAJESH")
+
+def print:
+    print("my name is Rajesh")
+
+
+
